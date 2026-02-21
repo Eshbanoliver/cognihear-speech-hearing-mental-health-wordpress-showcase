@@ -19,7 +19,6 @@ Custom WordPress website developed for CogniHear, a leading integrated clinic of
 - Stats counters: 1000+ Hearing Tests Conducted, 600+ Hearing Aids Fitted, 500+ Mental Health Sessions, 98% Successful Clients
 - Testimonials section with real client feedback on hearing aid quality, speech improvement, and counseling effectiveness
 - Doctor profiles ("The Faces Behind Your Care") and FAQ covering services, free tests, and clinic details
-- Contact/Appointment section with phones (+91 63750 42455, +91 91981 54016), email (cognihear001@gmail.com), address (Apex Chamber, G-2B, 4-C, Madhuban, Udaipur, Rajasthan 313001), and booking form
 - Responsive, calming design optimized for health/wellness visuals (mobile-first)
 - SEO-friendly for local Udaipur clinic searches (hearing aids, speech therapy, mental health)
 
